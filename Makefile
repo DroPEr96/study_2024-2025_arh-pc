@@ -1,4 +1,4 @@
-COURSE = 
+COURSE = arch-pc
 
 .PHONY: all clean
 
